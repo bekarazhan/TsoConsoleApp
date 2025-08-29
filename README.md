@@ -1,5 +1,7 @@
 Bekassyl Karazhan's Practical Problem Solving Task 
 
+.NET 9
+
 ## Task
 Implement a method to find the maximum number of non-overlapping delivery routes from a list of time intervals. Each route is represented by a start and end time.
 
